@@ -1,0 +1,11 @@
+.error-page-main-div{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(214, 75, 75);
+}

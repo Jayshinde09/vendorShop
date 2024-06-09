@@ -1,0 +1,167 @@
+.single-product-main-div{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.single-product-box{
+    border: 2px solid black;
+    border-top: 3px solid #007bff;
+    width: 1100px;
+    display: flex;
+    padding: 20px 20px;
+    box-shadow: 0px 4px 20px 2px #4d4d4d;
+}
+.single-product-img{
+    width: 250px;
+    height: auto;
+}
+.single-product-right-div{
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 20px;
+}
+.single-product-title{
+    color: black;
+    font-size: 23px;
+    font-weight: bolder;
+}
+.single-product-details{
+    margin-top: 5px;
+    font-size: 17px;
+    color: #6c757d;
+}
+.single-product-price{
+    color: rgb(0, 119, 255);
+    font-weight: bold;
+}
+.single-product-qty-div{
+    margin-top: 15px;
+}
+.qty-btn{
+    border: 2px solid black;
+    padding: 8px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.qty-text{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0px 10px;
+    font-size: 17px;
+    font-weight: bolder;
+}
+
+.add-to-cart-btn{
+    font-family: 'Ubuntu', sans-serif;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    margin-left: 15px;
+    border: none;
+    outline: none;
+}
+.single-product-desc-h1{
+    color: black;
+    font-size: 19px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+.single-product-desc-text{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    color: #6c757d;
+    margin-top: 5px;
+}
+
+
+
+.remove-from-cart-btn{
+    font-family: 'Ubuntu', sans-serif;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: #ff0055;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    margin-left: 15px;
+    border: none;
+    outline: none;
+}
+.cart-product-img{
+    width: 150px;
+    height: auto;
+}
+
+.cart-product-box{
+    border: 2px solid black;
+    border-top: 3px solid #007bff;
+    width: 1100px;
+    display: flex;
+    padding: 20px 20px;
+    box-shadow: 0px 4px 20px 2px #4d4d4d;
+    margin-bottom: 20px;
+}
+.page-title{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+
+.cart-qty-text{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+    font-weight: bolder;
+}
+
+.place-order-btn{
+    font-family: 'Ubuntu', sans-serif;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    margin-left: 15px;
+    border: none;
+    outline: none;
+}
+.place-order-btn-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.login-status-div{
+    color: #001ba4;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+}
+.total-price-text{
+    font-size: 25px;
+    font-weight: bold;
+    color: #001ba4;
+    text-align: center;
+    margin-top: 10px;
+}
+.cost-text-div{
+    color: #001ba4;
+    font-weight: bold;
+}
+.calculate-btn{
+    font-family: 'Ubuntu', sans-serif;
+    padding: 5px 10px;
+    border-radius: 20px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    border: none;
+    outline: none;
+    margin-left: 10px;
+}

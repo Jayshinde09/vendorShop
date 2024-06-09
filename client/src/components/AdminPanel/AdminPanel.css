@@ -1,0 +1,123 @@
+.admin-panel-main-div{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.admin-panel-box{
+    border: 2px solid black;
+    border-top: 3px solid #007bff;
+    width: 1100px;
+    padding: 20px 20px;
+    box-shadow: 0px 4px 20px 2px #4d4d4d;
+}
+.admin-panel-heading{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 23px;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+}
+.admin-panel-options-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.admin-panel-options{
+    font-family: 'Ubuntu', sans-serif;
+    border: 2px solid black;
+    color: black;
+    padding: 20px 20px;
+    margin: 0px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.admin-panel-options:hover{
+    box-shadow: 0px 4px 20px 2px #4d4d4d;
+}
+
+
+
+.admin-panel-div-box{
+    margin-top: 20px;
+}
+.option-main-outer-box{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    border: 2px solid black;
+    padding: 7px 10px;
+    border-radius: 7px;
+    margin-top: 10px;
+}
+.user-mobile-title-status{
+    color: #001ba4;
+}
+.user-name-title{
+    font-size: 18px;
+    font-weight: bold;
+}
+.login-form-div{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+.form-label{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+    color: black;
+    margin-top: 10px;
+}
+.login-input-field{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+    height: 30px;
+    margin-top: 3px;
+}
+.create-account-link{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: underline;
+    color: #001ba4;
+}
+
+.login-status-div{
+    color: #001ba4;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+.order-accept-btn{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+    padding: 5px 10px;
+    background-color: #1ba41b;
+    cursor: pointer;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-top: 2px;
+    margin-right: 5px;
+}
+.dropdown-list{
+    padding: 7px 10px;
+    border: 2px solid black;
+    outline: none;
+    border-radius: 5px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+}
+
+.login-status-div{
+    color: #001ba4;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+}

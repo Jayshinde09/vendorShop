@@ -1,0 +1,72 @@
+.header-main-div{
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+.top-nav-text{
+    color: white;
+}
+.top-nav{
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #343a40;
+    color: white;
+    padding: 10px 15px;
+    font-size: 16px;
+}
+
+.top-nav-links-div ul{
+    display: flex;
+}
+
+.top-nav-links{
+    color: white;
+    margin: 0px 10px;
+    font-weight: bold;
+}
+
+.main-nav{
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    padding: 5px 15px;
+    box-shadow: 0px 4px 20px -3px #888888;
+    background-color: white;
+}
+.main-nav a{
+    display: flex;
+    align-items: center;
+}
+.main-nav ul{
+    display: flex;
+    margin-left: 20px;
+}
+.nav-logo-img{
+    width: 60px;
+    height: 60px;
+    border-radius: 200px;
+}
+.main-nav-heading{
+    font-size: 18px;
+    font-weight: bolder;
+    color: black;
+}
+.main-nav-links{
+    color: #343a40;
+    margin: 0px 10px;
+    font-weight: bold;
+}
+.notify-icon-div{
+    margin-left: 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: white;
+}
+.notify-icon{
+    font-size: 18px;
+}

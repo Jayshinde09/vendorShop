@@ -1,0 +1,69 @@
+.login-main-div{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.login-box{
+    border: 2px solid black;
+    border-top: 3px solid #007bff;
+    width: 450px;
+    padding: 20px 20px;
+    box-shadow: 0px 4px 20px 2px #4d4d4d;
+}
+.submit-btn-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.submit-btn{
+    font-family: 'Ubuntu', sans-serif;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    border: none;
+    outline: none;
+}
+.login-form-div{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+.login-heading{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 23px;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+}
+.form-label{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+    color: black;
+    margin-top: 10px;
+}
+.login-input-field{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+    height: 30px;
+    margin-top: 3px;
+}
+.create-account-link{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: underline;
+    color: #001ba4;
+}
+
+.login-status-div{
+    color: #001ba4;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+}

@@ -1,0 +1,31 @@
+.footer-main-div{
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #343a40;
+    color: white;
+    padding: 25px 25px;
+    font-size: 16px;
+    margin-top: 25px;
+}
+.footer-header{
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 7px;
+}
+.footer-links{
+    color: rgba(255, 255, 255, 0.735);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+    margin: 10px 0px;
+}
+.footer-links a{
+    color: rgba(255, 255, 255, 0.735);
+}
+.copyright-div{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    margin: 8px;
+}

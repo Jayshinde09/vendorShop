@@ -1,0 +1,39 @@
+.admin-panel-main-div{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.admin-panel-box{
+    border: 2px solid black;
+    border-top: 3px solid #007bff;
+    width: 1100px;
+    padding: 20px 20px;
+    box-shadow: 0px 4px 20px 2px #4d4d4d;
+}
+.admin-panel-heading{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 23px;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+}
+.admin-panel-options-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.admin-panel-options{
+    font-family: 'Ubuntu', sans-serif;
+    border: 2px solid black;
+    color: black;
+    padding: 20px 20px;
+    margin: 0px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.admin-panel-options:hover{
+    box-shadow: 0px 4px 20px 2px #4d4d4d;
+}
